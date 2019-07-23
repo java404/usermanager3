@@ -22,6 +22,9 @@
 	</properties>
 	<dependencies>
 		<!-- 单元测试 -->
+		<!-- 大家好 -->
+		<!-- 我不哈 -->
+		<!-- 嘻嘻嘻 -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
